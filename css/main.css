@@ -1,0 +1,26 @@
+body {
+	background-image: url("../img/floralBG.jpg");
+	background-size: cover;
+}
+
+h1 {
+	font-family: "georgia";
+	font-style: italic;
+	font-weight: bold;
+}
+
+input {
+	width: 50%;
+}
+
+#todoList {
+	width: 50%;
+	margin: auto;
+}
+
+#todoList li {
+	list-style-position: outside;
+	font-size: 2em;
+	text-align: left;
+
+}
